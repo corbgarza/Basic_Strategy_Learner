@@ -1,0 +1,11 @@
+Hand,2,3,4,5,6,7,8,9,10,A
+02,d,d,y,y,y,y,n,n,n,n
+03,d,d,y,y,y,y,n,n,n,n
+04,n,n,n,d,d,n,n,n,n,n
+05,n,n,n,n,n,n,n,n,n,n
+06,d,y,y,y,y,n,n,n,n,n
+07,y,y,y,y,y,y,n,n,n,n
+08,y,y,y,y,y,y,y,y,y,y
+09,y,y,y,y,y,n,y,y,n,n
+10,n,n,n,n,n,n,n,n,n,n
+AA,y,y,y,y,y,y,y,y,y,y
